@@ -1,4 +1,5 @@
 # Pause Resume Recording Widget for WebEx Contact Center
+![image](https://github.com/user-attachments/assets/5ccadf7d-9576-4562-95de-d41bd2187335)
 
 A custom widget for WebEx Contact Center (WxCC) that allows agents to pause and resume call recordings when handling sensitive customer information, such as payment details or personal identifiers.
 
