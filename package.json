@@ -1,0 +1,31 @@
+{
+  "name": "pause-resume-recording-widget",
+  "version": "1.0.0",
+  "description": "A WebEx Contact Center widget for secure pausing and resuming of call recordings",
+  "main": "src/pause-resume-recording-widget.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "dev": "webpack --config webpack.config.js --watch",
+    "start": "http-server ./build -p 5000 --cors"
+  },
+  "keywords": [
+    "wxcc",
+    "webex",
+    "contact-center",
+    "widget",
+    "recording"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "babel-loader": "^9.2.1",
+    "http-server": "^14.1.1",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "@wxcc-desktop/sdk": "^2.0.3"
+  }
+}
