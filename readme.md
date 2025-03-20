@@ -1,5 +1,7 @@
 # Pause Resume Recording Widget for WebEx Contact Center
 
+![image](https://github.com/user-attachments/assets/1d3b7669-c0eb-45a2-916c-5b2a60042fda)
+
 ![image](https://github.com/user-attachments/assets/78027112-f076-41aa-b2bb-9d8ead5285b3)
 
 ![image](https://github.com/user-attachments/assets/5ccadf7d-9576-4562-95de-d41bd2187335)
